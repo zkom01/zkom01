@@ -1,60 +1,57 @@
 # Zdeněk Komárek
 
-Vývojář se zaměřením na backend, SQL databáze, automatizaci a průmyslové technologie.
+Backend vývojář se zaměřením na PHP, SQL a návrh databázových systémů.
 
-Spojuji praktické technické zkušenosti s vývojem softwaru a optimalizací procesů.  
-Věnuji se tvorbě webových aplikací, databázových systémů, automatizačních řešení a vlastních vývojových projektů.
+Vytvářím aplikace a nástroje zaměřené na zpracování dat, automatizaci procesů a praktická softwarová řešení.  
+K vývoji přistupuji technicky a systémově – s důrazem na funkčnost, strukturu a dlouhodobou udržitelnost.
 
 ---
 
-## Technologie
+## 🔧 Technologie
 
-- PHP
-- SQL / MySQL
-- Python
+- PHP (backend vývoj)
+- SQL / MySQL (návrh a optimalizace databází)
+- Python (automatizace, nástroje, hry)
 - JavaScript
 - HTML / CSS
 - Git / GitHub
 
 ---
 
-## Průmyslové a automatizační technologie
+## 🏭 Průmyslové a technické zaměření
 
 - Mervis SCADA
 - PLC UNIPI
 - Průmyslová automatizace
-- Procesní logika a optimalizace systémů
+- Řízení a logika procesů
+- Technické systémy
 
 ---
 
-## Certifikace a kvalifikace
+## 🎓 Kvalifikace
 
-- §7 nařízení vlády č. 194/2022 Sb.  - vedoucí elektrotechnik
-- Základní konstrukce jazyka Java
-- Základní konstrukce jazyka JavaScript
-- Bootstrap Framework
+- §7 nařízení vlády č. 194/2022 Sb. (vedoucí elektrotechnik)
+- Java – základní konstrukce
+- JavaScript – základní konstrukce
+- Bootstrap framework
 - Školení Mervis SCADA
 - Školení PLC UNIPI
 
 ---
 
-## Projekty
+## 🚀 Projekty
 
-### PHP aplikace
-Webové aplikace zaměřené na backend a práci s databázemi.
+### Webové aplikace (PHP / SQL)
+Backend systémy zaměřené na práci s databázemi a reálnými daty.
 
-### SQL a databázová logika
-Komplexní SQL dotazy, návrh relačních databází a reportingové systémy.
+### Databázové systémy (SQL)
+Návrh databází, optimalizace dotazů a strukturování dat.
 
 ### Python projekty
-Vývoj her v Pygame a automatizační nástroje.
+Automatizace a vývoj menších aplikací a her (Pygame).
 
 ---
 
-## Zaměření
+## 🎯 Zaměření
 
-- Backend development
-- SQL optimalizace
-- Automatizace
-- Průmyslové systémy
-- Praktická softwarová řešení
+Backend vývoj, databázové systémy, automatizace a praktické aplikace propojující software s reálnými procesy.
