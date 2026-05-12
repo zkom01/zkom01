@@ -1,6 +1,6 @@
 # Zdeněk Komárek
 
-Backend vývojář se zaměřením na PHP, SQL a návrh databázových systémů.
+Backend vývojář se zaměřením na Python, PHP, SQL a návrh databázových systémů.
 
 Vytvářím aplikace a nástroje zaměřené na zpracování dat, automatizaci procesů a praktická softwarová řešení.  
 K vývoji přistupuji technicky a systémově – s důrazem na funkčnost, strukturu a dlouhodobou udržitelnost.
