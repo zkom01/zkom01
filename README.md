@@ -29,7 +29,7 @@ Věnuji se tvorbě webových aplikací, databázových systémů, automatizačn�
 
 ## Certifikace a kvalifikace
 
-- Nařízení vlády č. 194/2022 Sb. §7
+- §7 nařízení vlády č. 194/2022 Sb.  - vedoucí elektrotechnik
 - Základní konstrukce jazyka Java
 - Základní konstrukce jazyka JavaScript
 - Bootstrap Framework
