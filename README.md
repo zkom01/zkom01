@@ -31,8 +31,9 @@ K vývoji přistupuji technicky a systémově – s důrazem na funkčnost, stru
 ## 🎓 Kvalifikace
 
 - §7 nařízení vlády č. 194/2022 Sb. (vedoucí elektrotechnik)
-- Java – základní konstrukce
+- Java – základní konstrukce a OOP
 - JavaScript – základní konstrukce
+- Python - základní konstrukce a OOP
 - Bootstrap framework
 - Školení Mervis SCADA
 - Školení PLC UNIPI
