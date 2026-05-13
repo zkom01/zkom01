@@ -12,6 +12,7 @@ K vývoji přistupuji technicky a systémově – s důrazem na funkčnost, stru
 - PHP (backend vývoj)
 - SQL / MySQL (návrh a optimalizace databází)
 - Python (automatizace, nástroje, hry)
+- Java
 - JavaScript
 - HTML / CSS
 - Git / GitHub
